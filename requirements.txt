@@ -1,0 +1,10 @@
+openai
+langchain
+pdfplumber
+sentence-transformers
+unstructured
+chardet
+konlpy
+langchain-openai
+rank_bm25
+markdown
