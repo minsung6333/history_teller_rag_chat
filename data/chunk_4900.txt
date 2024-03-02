@@ -1,0 +1,3 @@
+의 위치를 표시하는 좌표계)와 적도좌표(천구 위의 천체의 위치를 표시하는 좌표의 하나로, 경도·위도와
+비슷)를 기준으로 한 측정 장치 부분만을 따로 떼어낸 구조이다.
+contents.history.go.kr/front/kc/printViewPopup.do?levelId=kc_r300010 1/4
